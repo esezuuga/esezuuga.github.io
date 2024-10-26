@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esezuuga.github.io/sitemap_index.esezuuga
